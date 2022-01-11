@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joyal G
 - 👀 I’m interested in javascript, nodejs, angular, vuejs
-- 🌱 I’m currently learning ractjs
+- 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on nodejs
 - 📫 How to reach me twitter @joyalgs
 
